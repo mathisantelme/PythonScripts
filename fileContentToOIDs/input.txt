@@ -1,0 +1,20 @@
+hostname
+name
+version
+ip
+PID
+transportAddress command
+role
+max_indexer_buffer_size
+indicesCount
+names
+shardsCount
+replicasCount
+version
+provider
+uptime
+usedCache
+maxCache
+threadsCount
+threadsMax
+test
